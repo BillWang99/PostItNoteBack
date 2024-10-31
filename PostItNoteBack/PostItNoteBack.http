@@ -1,0 +1,6 @@
+@PostItNoteBack_HostAddress = http://localhost:5076
+
+GET {{PostItNoteBack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
