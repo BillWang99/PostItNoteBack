@@ -21,3 +21,9 @@
  
   **4. Delete**   
  /api/PostIt/Delete/{id} 刪除特定id的便利貼    
+
+   ## 展示影片
+  [https://youtu.be/TY4g_hepVYs](https://youtu.be/TY4g_hepVYs)   
+
+ ## 前端部分   
+ [https://github.com/BillWang99/PostItNoteFront.git](https://github.com/BillWang99/PostItNoteFront.git)
